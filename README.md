@@ -1,6 +1,6 @@
 Brain Segmentation Project for the 881 Image Processing Course
 
-BraTS competition is used 
+BraTS competition <link>https://www.med.upenn.edu/sbia/brats2018/data.html</link>
 
 tum-proj --- Data Aquisition, EDA, Preprocessing, Normalization 
 
