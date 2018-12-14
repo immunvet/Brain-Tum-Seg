@@ -1,11 +1,11 @@
 <h1><b><i>Brain Segmentation Project for the 881 Image Processing Course</i></b></h1>
 
-BraTS competition <link>https://www.med.upenn.edu/sbia/brats2018/data.html</link>
+BraTS competition <link>https://www.med.upenn.edu/sbia/brats2018/data.html</link></br>
 The list of corresponding references is in the link above. 
 
 <h2><b>Brain tumor segmentation using transfer learning approach.</b></h2> 
 
-This repo is divided by two folders. 
+This repo is divided by two folders.</br> 
 First folder, <b>python_preprocesing</b> contains all of the EDA, pre-processing and augmentation examples.
 All notebooks are properly annotated. Follow the instructions. To follow these instructions BraTS data should be acquired first. 
 Please, check link above. 
