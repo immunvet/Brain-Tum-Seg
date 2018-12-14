@@ -8,7 +8,7 @@ The list of corresponding references is in the link above.
 This repo is divided by two folders.</br> 
 First folder, <b>python_preprocesing</b> contains all of the EDA, pre-processing and augmentation examples.
 All notebooks are properly annotated. Follow the instructions. To follow these instructions BraTS data should be acquired first. 
-Please, check link above. 
+Please, check link above.</br> 
 
 tum-proj --- Data Aquisition, EDA, Preprocessing, Normalization. 
 
@@ -20,7 +20,7 @@ Second folder, <b>matlab_dl</b> contains transfer learning implementation in MAT
 
 vgg16 --- MATLAB script, implementation of vgg16 for brain tumor segmentation using pseudo-3D images. 
 
-partitionData --- MATLAB function aimed to divide data for training and validation dataset, use pixelIDs!Follow instructions inside the function.
+partitionData --- MATLAB function aimed to divide data for training and validation dataset, use pixelIDs!</br>Follow instructions inside the function.
 
 pixelLabelColorbar --- function that enables colorbars when applying masks, to understand labels.
 
