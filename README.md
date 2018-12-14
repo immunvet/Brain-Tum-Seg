@@ -24,6 +24,12 @@ partitionData --- MATLAB function aimed to divide data for training and validati
 
 pixelLabelColorbar --- function that enables colorbars when applying masks, to understand labels.
 
+<b>appendix</b> contains visualizations of training procedure and validation results.
+
+
+
+
+
 <h2><b>References</b></h2>
 
 1) Puybareau, E. (2018). Glioma Segmentation In a Few Seconds Using Fully Convolutional Network and Transfer Learning. 2018 International MICCAI BraTS Challenge Reports, 2018, pp.394 - 401.
